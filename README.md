@@ -1,6 +1,6 @@
 PHP Readable code 
 
-This was a solo project carried out from the 15th to the 16th of March 2021 as part of the BeCode Liège's Junior Web Developer program.
+This was a solo project carried out from the 16th to the 17th of March 2021 as part of the BeCode Liège's Junior Web Developer program.
 
 Learning objectives
     - Starting with PHP
